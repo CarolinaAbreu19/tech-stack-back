@@ -1,0 +1,8 @@
+﻿namespace TechStackProcesso.Models
+{
+    public class NivelConhecimento
+    {
+        public int Id { get; set; }
+        public string Descricao { get; set; }
+    }
+}
