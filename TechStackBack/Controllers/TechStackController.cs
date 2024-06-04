@@ -23,7 +23,7 @@ namespace TechStackBack.Controllers
         }
 
         [HttpGet("ObterTechStacks")]
-        //[EnableCors("AllowSpecificOrigin")]
+        [EnableCors("CORS_POLICY")]
         public async Task<IActionResult> ObterTechStacks()
         {
             var result = await _techStackBusiness.ObterTechStacks();
