@@ -27,8 +27,16 @@ namespace TechStackBack.Controllers
         public async Task<IActionResult> ObterTechStacks()
         {
             var result = await _techStackBusiness.ObterTechStacks();
-            return Ok(result);
+            return Ok(result);  //Poderia retornar um DTO em vez de uma lista das entidades
         }
 
+
+        [HttpGet("ObterDetalhesTechStack/{idTechStack}")]
+        [EnableCors("CORS_POLICY")]
+        public async Task<IActionResult> ObterDetalhesTechStack([FromRoute] int idTechStack)  //Experimente fazer essa chamada utilizando um parâmetro
+        {
+            var result = await _techStackBusiness.ObterDetalhesTechStack(idTechStack);
+            return Ok(result);
+        }
     }
 }

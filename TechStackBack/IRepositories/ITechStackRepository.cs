@@ -8,5 +8,6 @@ namespace TechStackBack.IRepositories
     public interface ITechStackRepository
     {
         Task<List<TechStack>> ConsultarTechStacks();
+        Task<TechStack> ConsultarTechStackPorId(int idTechStack);
     }
 }

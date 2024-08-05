@@ -20,7 +20,6 @@ C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\scopedcss\bundle\TechStackBack.styles.css
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\staticwebassets\TechStackBack.StaticWebAssets.Manifest.cache
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\TechStackBack.RazorTargetAssemblyInfo.cache
-C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\TechStackBack.csproj.CopyComplete
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\TechStackBack.dll
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\refint\TechStackBack.dll
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\TechStackBack.pdb
@@ -34,3 +33,10 @@ C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\bin\Debug\net5.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
 C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\bin\Debug\net5.0\tusdotnet.dll
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\TechStackBack.sourcelink.json
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\staticwebassets\TechStackBack.StaticWebAssets.Pack.cache
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\staticwebassets\msbuild.TechStackBack.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\staticwebassets\msbuild.build.TechStackBack.props
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.TechStackBack.props
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.TechStackBack.props
+C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\obj\Debug\net5.0\TechStac.BCBD6F8C.Up2Date

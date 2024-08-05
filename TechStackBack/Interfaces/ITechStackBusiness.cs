@@ -8,6 +8,8 @@ namespace TechStackBack.Interfaces
 {
     public interface ITechStackBusiness
     {
-        Task<List<TechStack>> ObterTechStacks();
+        Task<List<GestaoTechStackDTO>> ObterTechStacks();
+        Task<InformacoesTechStackDTO> ObterDetalhesTechStack(int idTechStack);
+
     }
 }

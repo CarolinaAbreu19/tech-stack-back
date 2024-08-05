@@ -13,8 +13,4 @@
     <PackageReference Include="tusdotnet" Version="2.8.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Util\" />
-  </ItemGroup>
-
 </Project>
