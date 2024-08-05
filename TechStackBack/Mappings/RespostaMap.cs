@@ -27,9 +27,21 @@ namespace TechStackProcesso.Maps
                 .HasColumnName("id_nivelconhecimento")
                 .IsRequired();
 
-            builder.Property(p => p.DataPreenchimento)
-                .HasColumnName("din_preenchimentoresposta")
+            builder.Property(p => p.DataUltimaAlteracao)
+                .HasColumnName("din_ultimaalteracao")
                 .IsRequired();
+
+            builder.HasOne(p => p.Assunto)
+                .WithMany(a => a.Respostas)
+                .HasForeignKey(p => p.IdAssunto);
+
+            builder.HasOne(p => p.Preenchimento)
+                .WithMany(a => a.Respostas)
+                .HasForeignKey(p => p.IdPreenchimento);
+
+            builder.HasOne(p => p.NivelConhecimento)
+                .WithMany(a => a.Respostas)
+                .HasForeignKey(p => p.IdNivelConhecimento);
 
         }
     }

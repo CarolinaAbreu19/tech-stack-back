@@ -29,6 +29,10 @@ namespace TechStackProcesso.Maps
                 .HasMaxLength(100)
                 .IsRequired();
 
+            builder.HasOne(e => e.TipoPerfilColaborador)
+               .WithMany(t => t.Colaboradores)
+               .HasForeignKey(e => e.IdPerfilColaborador);
+
         }
     }
 }
