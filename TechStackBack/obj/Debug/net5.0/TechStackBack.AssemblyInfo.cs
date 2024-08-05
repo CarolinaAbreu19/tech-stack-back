@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechStackBack")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7af325f2307f1325fe525d173ef3d50ef4395ff1")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechStackBack")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechStackBack")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,6 +28,14 @@ namespace TechStackProcesso.Maps
                 .HasMaxLength(100)
                 .IsRequired();
 
+            builder.HasOne(e => e.TechStack)
+               .WithMany(t => t.AreasConhecimento)
+               .HasForeignKey(e => e.IdTechStack);
+    
+            builder.HasOne(e => e.TipoConhecimento)
+               .WithMany(t => t.AreasConhecimento)
+               .HasForeignKey(e => e.IdTipoConhecimento);
+
         }
     }
 }

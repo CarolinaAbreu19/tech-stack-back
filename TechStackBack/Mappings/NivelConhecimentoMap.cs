@@ -19,6 +19,10 @@ namespace TechStackProcesso.Maps
                 .HasColumnName("dsc_nivelconhecimento")
                 .HasMaxLength(20)
                 .IsRequired();
+
+            builder.Property(p => p.Valor)
+                .HasColumnName("valor_nivelconhecimento")
+                .IsRequired();
         }
     }
 }

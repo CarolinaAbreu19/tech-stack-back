@@ -28,6 +28,14 @@ namespace TechStackProcesso.Maps
                 .HasColumnName("dsc_assunto")
                 .HasMaxLength(100)
                 .IsRequired();
+
+            builder.HasOne(e => e.AreaConhecimento)
+               .WithMany(t => t.Assuntos)
+               .HasForeignKey(e => e.IdAreaConhecimento);
+
+            builder.HasOne(a => a.Relevancia)
+                .WithMany(r => r.Assuntos)
+                .HasForeignKey(a => a.IdRelevancia);
         }
     }
 }
