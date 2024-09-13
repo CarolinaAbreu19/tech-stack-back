@@ -32,7 +32,7 @@ namespace TechStackBack.Business
                 {
                     Id = techstack.Id,
                     Nome = techstack.Nome,
-                    QuantidadePreenchimentos = techstack.Preenchimentos.Count(),
+                    QuantidadePreenchimentos = techstack.Preenchimentos != null ? techstack.Preenchimentos.Count() : 0
                 };
 
                 retorno.Add(novaTechStack);
@@ -49,7 +49,7 @@ namespace TechStackBack.Business
             {
                 Id = idTechStack,
                 Nome = techStack.Nome,
-                Area = techStack.Area,
+                Area = techStack.Tipo,
                 Detalhes = techStack.Descricao,
                 DataCriacao = ManipularData.ConverterToStringSemHora(techStack.DataCriacao),
                 Respostas = MontarRespostas(techStack),
@@ -94,7 +94,7 @@ namespace TechStackBack.Business
                         Id = area.Id,
                         IdTipoConhecimento = area.IdTipoConhecimento,
                         Nome = area.Descricao,
-                        QuantidadeAssuntos = area.Assuntos.Count(),
+                        QuantidadeAssuntos = area.Assuntos != null ? area.Assuntos.Count() : 0,
                     };
 
                     retorno.Add(novaArea);
