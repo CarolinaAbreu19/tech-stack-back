@@ -16,10 +16,11 @@ namespace TechStackBack.Repositories
             _context = context;
         }
 
-        public Task<List<Assunto>> ConsultarAssuntosPorId(List<int> idsAssunto)
+        public Task<List<Assunto>> ConsultarAssuntosPorIdAreaConhecimento(int idAreaConhecimento)
         {
-            var query = _context.Set<Assunto>()
-                .Where(e => idsAssunto.Contains(e.Id));
+            var query = _context.Set<Assunto>().AsSplitQuery()
+                .Include(a => a.Relevancia).AsSplitQuery()
+                .Where(e => e.IdAreaConhecimento.Equals(idAreaConhecimento));
 
             return query.ToListAsync();
         }

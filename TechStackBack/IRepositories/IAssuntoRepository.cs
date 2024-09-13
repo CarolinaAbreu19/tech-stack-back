@@ -7,6 +7,6 @@ namespace TechStackBack.IRepositories
 {
     public interface IAssuntoRepository
     {
-        Task<List<Assunto>> ConsultarAssuntosPorId(List<int> idsAssunto);
+        Task<List<Assunto>> ConsultarAssuntosPorIdAreaConhecimento(int idAreaConhecimento);
     }
 }

@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\repositories\\assuntorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\repositories\\assuntorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\repositories\\techstackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\repositories\\techstackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\business\\assuntobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\business\\assuntobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\controllers\\assuntocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\controllers\\assuntocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\controllers\\techstackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\controllers\\techstackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\interfaces\\iassuntobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\interfaces\\iassuntobusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\business\\techstackbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\business\\techstackbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\irepositories\\iassuntorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\irepositories\\iassuntorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\dto\\assuntodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\dto\\assuntodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\dto\\areaconhecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\dto\\areaconhecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\models\\techstack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,16 +51,8 @@
       "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\irepositories\\itechstackrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\business\\techstackbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\business\\techstackbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\dto\\informacoestechstackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\dto\\informacoestechstackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\dto\\areaconhecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\dto\\areaconhecimentodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\dto\\gestaotechstackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,10 +73,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\mappings\\areaconhecimentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\mappings\\areaconhecimentomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\controllers\\techstackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|solutionrelative:techstackback\\controllers\\techstackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A0C7717-1E19-465B-BC93-7E5BCE66D3BB}|TechStackBack\\TechStackBack.csproj|c:\\users\\acsa\\documents\\pitang booster\\tech stack\\tech-stack-back\\techstackback\\dto\\respostastechstackdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -74,20 +98,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "TechStackBusiness.cs",
-              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Business\\TechStackBusiness.cs",
-              "RelativeDocumentMoniker": "TechStackBack\\Business\\TechStackBusiness.cs",
-              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Business\\TechStackBusiness.cs",
-              "RelativeToolTip": "TechStackBack\\Business\\TechStackBusiness.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAApwC0AAABOAAAA",
+              "Title": "AssuntoController.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Controllers\\AssuntoController.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Controllers\\AssuntoController.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Controllers\\AssuntoController.cs",
+              "RelativeToolTip": "TechStackBack\\Controllers\\AssuntoController.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAIAwwBgAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T19:15:36.231Z",
-              "IsPinned": true
+              "WhenOpened": "2024-09-13T17:45:41.058Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -95,19 +120,124 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InformacoesTechStackDTO.cs",
-              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
-              "RelativeDocumentMoniker": "TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
-              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
-              "RelativeToolTip": "TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAnAAAA",
+              "DocumentIndex": 0,
+              "Title": "AssuntoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Repositories\\AssuntoRepository.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Repositories\\AssuntoRepository.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Repositories\\AssuntoRepository.cs",
+              "RelativeToolTip": "TechStackBack\\Repositories\\AssuntoRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwBUAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T17:11:38.989Z"
+              "WhenOpened": "2024-09-13T17:51:27.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "AssuntoBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Business\\AssuntoBusiness.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Business\\AssuntoBusiness.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Business\\AssuntoBusiness.cs",
+              "RelativeToolTip": "TechStackBack\\Business\\AssuntoBusiness.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAIAwwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:49:47.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAssuntoBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Interfaces\\IAssuntoBusiness.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Interfaces\\IAssuntoBusiness.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Interfaces\\IAssuntoBusiness.cs",
+              "RelativeToolTip": "TechStackBack\\Interfaces\\IAssuntoBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:47:01.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TechStackRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Repositories\\TechStackRepository.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Repositories\\TechStackRepository.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Repositories\\TechStackRepository.cs",
+              "RelativeToolTip": "TechStackBack\\Repositories\\TechStackRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwCEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:42:37.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechStackController.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Controllers\\TechStackController.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Controllers\\TechStackController.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Controllers\\TechStackController.cs",
+              "RelativeToolTip": "TechStackBack\\Controllers\\TechStackController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAowCEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-30T12:49:03.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TechStackBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Business\\TechStackBusiness.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\Business\\TechStackBusiness.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Business\\TechStackBusiness.cs",
+              "RelativeToolTip": "TechStackBack\\Business\\TechStackBusiness.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAtwC0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T19:15:36.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAssuntoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\IRepositories\\IAssuntoRepository.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\IRepositories\\IAssuntoRepository.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\IRepositories\\IAssuntoRepository.cs",
+              "RelativeToolTip": "TechStackBack\\IRepositories\\IAssuntoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:50:51.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssuntoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\AssuntoDTO.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\DTO\\AssuntoDTO.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\AssuntoDTO.cs",
+              "RelativeToolTip": "TechStackBack\\DTO\\AssuntoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:48:00.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AreaConhecimentoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
+              "RelativeToolTip": "TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T18:28:49.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ITechStackRepository.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\IRepositories\\ITechStackRepository.cs",
               "RelativeDocumentMoniker": "TechStackBack\\IRepositories\\ITechStackRepository.cs",
@@ -119,32 +249,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AreaConhecimentoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
-              "RelativeDocumentMoniker": "TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
-              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
-              "RelativeToolTip": "TechStackBack\\DTO\\AreaConhecimentoDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "DocumentIndex": 12,
+              "Title": "InformacoesTechStackDTO.cs",
+              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
+              "RelativeDocumentMoniker": "TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
+              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
+              "RelativeToolTip": "TechStackBack\\DTO\\InformacoesTechStackDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-28T18:28:49.921Z"
+              "WhenOpened": "2024-07-05T17:11:38.989Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TechStackRepository.cs",
-              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Repositories\\TechStackRepository.cs",
-              "RelativeDocumentMoniker": "TechStackBack\\Repositories\\TechStackRepository.cs",
-              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Repositories\\TechStackRepository.cs",
-              "RelativeToolTip": "TechStackBack\\Repositories\\TechStackRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T18:42:37.957Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "TechStack.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Models\\TechStack.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Models\\TechStack.cs",
@@ -156,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "GestaoTechStackDTO.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\GestaoTechStackDTO.cs",
               "RelativeDocumentMoniker": "TechStackBack\\DTO\\GestaoTechStackDTO.cs",
@@ -168,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 15,
               "Title": "ITechStackBusiness.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Interfaces\\ITechStackBusiness.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Interfaces\\ITechStackBusiness.cs",
@@ -180,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "PreenchimentoMap.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Mappings\\PreenchimentoMap.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Mappings\\PreenchimentoMap.cs",
@@ -192,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "AreaConhecimentoMap.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Mappings\\AreaConhecimentoMap.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Mappings\\AreaConhecimentoMap.cs",
@@ -204,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "ManipularData.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Util\\ManipularData.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Util\\ManipularData.cs",
@@ -216,19 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TechStackController.cs",
-              "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Controllers\\TechStackController.cs",
-              "RelativeDocumentMoniker": "TechStackBack\\Controllers\\TechStackController.cs",
-              "ToolTip": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Controllers\\TechStackController.cs",
-              "RelativeToolTip": "TechStackBack\\Controllers\\TechStackController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAowBwAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-30T12:49:03.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "NivelConhecimentoMap.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Mappings\\NivelConhecimentoMap.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Mappings\\NivelConhecimentoMap.cs",
@@ -240,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "RespostasTechStackDTO.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\DTO\\RespostasTechStackDTO.cs",
               "RelativeDocumentMoniker": "TechStackBack\\DTO\\RespostasTechStackDTO.cs",
@@ -252,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "NivelConhecimento.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Models\\NivelConhecimento.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Models\\NivelConhecimento.cs",
@@ -264,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "RelevanciaEnum.cs",
               "DocumentMoniker": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\Enums\\RelevanciaEnum.cs",
               "RelativeDocumentMoniker": "TechStackBack\\Enums\\RelevanciaEnum.cs",

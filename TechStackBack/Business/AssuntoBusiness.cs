@@ -19,9 +19,22 @@ namespace TechStackBack.Business
             _assuntoRepository = assuntoRepository;
         }
 
-        public async Task<List<Assunto>> ObterAssuntos(AssuntoFilterDTO filter)
+        public async Task<List<AssuntoDTO>> ObterAssuntosPorAreaConhecimento(int idAreaConhecimento)
         {
-            var retorno = await _assuntoRepository.ConsultarAssuntosPorId(filter.IdsAssunto);
+            var assuntos = await _assuntoRepository.ConsultarAssuntosPorIdAreaConhecimento(idAreaConhecimento);
+            var retorno = new List<AssuntoDTO>();
+
+            foreach (var assunto in assuntos)
+            {
+                var novoAssunto = new AssuntoDTO()
+                {
+                    Id = assunto.Id,
+                    Nome = assunto.Descricao,
+                    Relevancia = assunto.Relevancia.Descricao,
+                };
+
+                retorno.Add(novoAssunto);
+            }
 
             return retorno;
         }

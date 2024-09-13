@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -21,10 +22,11 @@ namespace TechStackBack.Controllers
             _assuntoBusiness = assuntoBusiness;
         }
 
-        [HttpGet("ObterAssuntos")]
-        public async Task<IActionResult> ObterAssuntos([FromBody] AssuntoFilterDTO filter)
+        [HttpGet("ObterAssuntosPorAreaConhecimento/{idAreaConhecimento}")]
+        [EnableCors("CORS_POLICY")]
+        public async Task<IActionResult> ObterAssuntosPorAreaConhecimento([FromRoute] int idAreaConhecimento)
         {
-            var result = await _assuntoBusiness.ObterAssuntos(filter);
+            var result = await _assuntoBusiness.ObterAssuntosPorAreaConhecimento(idAreaConhecimento);
             return Ok(result);
         }
 

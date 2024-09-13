@@ -8,6 +8,6 @@ namespace TechStackBack.Interfaces
 {
     public interface IAssuntoBusiness
     {
-        Task<List<Assunto>> ObterAssuntos(AssuntoFilterDTO filter);
+        Task<List<AssuntoDTO>> ObterAssuntosPorAreaConhecimento(int idAreaConhecimento);
     }
 }
