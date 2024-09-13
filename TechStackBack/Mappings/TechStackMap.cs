@@ -24,8 +24,8 @@ namespace TechStackProcesso.Maps
                 .HasColumnName("dsc_techstack")
                 .HasMaxLength(2000);
 
-            builder.Property(e => e.Area)
-                .HasColumnName("dsc_area")
+            builder.Property(e => e.Tipo)
+                .HasColumnName("tp_techstack")
                 .HasMaxLength(50);
 
             builder.Property(p => p.DataCriacao)

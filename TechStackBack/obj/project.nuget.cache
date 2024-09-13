@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pBSGvqQ0uhg=",
+  "dgSpecHash": "AOQoBtl22os=",
   "success": true,
-  "projectFilePath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj",
+  "projectFilePath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acsa\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",
     "C:\\Users\\acsa\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
@@ -44,7 +44,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Npgsql' 5.0.17 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "message": "O pacote 'Npgsql' 5.0.17 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
       "libraryId": "Npgsql",
       "targetGraphs": [
         "net5.0"

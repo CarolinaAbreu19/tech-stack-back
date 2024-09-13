@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Principal;
 using System.Threading.Tasks;
 using TechStackBack.DTO;
 using TechStackBack.IRepositories;
@@ -19,7 +21,7 @@ namespace TechStackBack.Repositories
 
         public Task<List<TechStack>> ConsultarTechStacks()
         {
-            var query = _context.Set<TechStack>()
+            var query = _context.Set<TechStack>().AsSplitQuery()
                 .Include(t => t.Preenchimentos).AsSplitQuery();
 
             return query.ToListAsync();
@@ -28,7 +30,8 @@ namespace TechStackBack.Repositories
         public Task<TechStack> ConsultarTechStackPorId(int idTeckStack)
         {
             var query = _context.Set<TechStack>().AsSplitQuery()
-                .Include(t => t.AreasConhecimento).AsSplitQuery()
+                .Include(t => t.AreasConhecimento)
+                    .ThenInclude(a => a.Assuntos).AsSplitQuery()
                 .Include(t => t.Preenchimentos)
                     .ThenInclude(t => t.Respostas).AsSplitQuery()
                 .Where(t => t.Id == idTeckStack);
