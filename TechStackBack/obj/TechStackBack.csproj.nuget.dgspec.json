@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj": {}
+    "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj": {
+    "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj",
+        "projectUniqueName": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj",
         "projectName": "TechStackBack",
-        "projectPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj",
+        "projectPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj",
         "packagesPath": "C:\\Users\\acsa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\obj\\",
+        "outputPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\acsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -90,7 +90,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

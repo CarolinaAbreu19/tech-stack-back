@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TechStackBack
-build_property.ProjectDir = C:\Users\acsa\Documents\Pitang Booster\2º Trimestre\TechStackBack\TechStackBack\
+build_property.ProjectDir = C:\Users\acsa\Documents\Pitang Booster\Tech Stack\tech-stack-back\TechStackBack\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
