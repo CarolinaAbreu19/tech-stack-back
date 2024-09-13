@@ -1245,11 +1245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj",
+      "projectUniqueName": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj",
       "projectName": "TechStackBack",
-      "projectPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\TechStackBack.csproj",
+      "projectPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\TechStackBack.csproj",
       "packagesPath": "C:\\Users\\acsa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\2º Trimestre\\TechStackBack\\TechStackBack\\obj\\",
+      "outputPath": "C:\\Users\\acsa\\Documents\\Pitang Booster\\Tech Stack\\tech-stack-back\\TechStackBack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acsa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1328,7 +1328,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   },
@@ -1337,7 +1337,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Package 'Npgsql' 5.0.17 has a known high severity vulnerability, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
+      "message": "O pacote 'Npgsql' 5.0.17 tem uma alta vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-x9vc-6hfv-hg8c",
       "libraryId": "Npgsql",
       "targetGraphs": [
         "net5.0"
